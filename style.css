@@ -9,6 +9,12 @@ body {
     background-color: #1F2937;
     color: #F9FAF8;
     font-size: 18px;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
 }
 
 .logo {
@@ -17,6 +23,10 @@ body {
 
 ul {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 40px;
 }
 
 a {

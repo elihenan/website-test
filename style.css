@@ -134,3 +134,10 @@ button {
     font-weight: lighter;
 }
 
+.section-five {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}

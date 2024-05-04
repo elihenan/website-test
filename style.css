@@ -69,7 +69,8 @@ button {
 }
 
 .section-two {
-    padding: 30px;
+    padding: 60px;
+    padding-bottom: 100px;
     text-align: center;
 }
 
@@ -96,4 +97,22 @@ button {
     font-size: 18px;
     color: #1F2937;
     width: 160px;
+}
+
+.section-three {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding: 75px 300px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.quote-source {
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: right;
 }
